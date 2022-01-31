@@ -1,3 +1,33 @@
+/*************Tag Selectors*************/
 body{
+
+margin: 0;
+
+}
+
+h1{
+  margin-top: 0;
+}
+
+div{
+  background-color: #015051;
+}
+
+/*************Class Selectors*************/
+
+.top{
+  height: 200px;
+  width: 200px;
+}
+
+.mid {
+  width: 200px;
+  height: 200px;
   background-color: blue;
+}
+
+.bottom{
+  width: 200px;
+  height: 200px;
+  background-color: red;
 }
